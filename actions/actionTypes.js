@@ -1,0 +1,5 @@
+export const INCREASE_COUNTER = 'INCREASE_COUNTER';
+export const DECREASE_COUNTER = 'DECREASE_COUNTER';
+export const TOGGLE_THEME = 'TOGGLE_THEME';
+
+export const NEWS_STATE = 'NEWS_STATE';
